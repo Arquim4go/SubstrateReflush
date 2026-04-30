@@ -21,9 +21,6 @@
   "output": {
     "type": "block",
     "code": "fruitingbag",
-    "quantity": 1,
-    "attributes": {
-      "refundItem": "game:flaxtwine"
-    }
+    "quantity": 1
   }
 }

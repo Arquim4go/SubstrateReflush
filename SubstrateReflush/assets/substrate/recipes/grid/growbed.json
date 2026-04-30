@@ -27,9 +27,6 @@
   "output": {
     "type": "block",
     "code": "growbed",
-    "quantity": 1,
-    "attributes": {
-      "refundItem": "game:plank-{wood}"
-    }
+    "quantity": 1
   }
 }

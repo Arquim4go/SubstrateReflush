@@ -6,7 +6,7 @@
         "Averixus", "willis81808"
     ],
     "description": "Update of Queerty's original Substrate for VS 1.22",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
         "game": "1.22.0"
     }
